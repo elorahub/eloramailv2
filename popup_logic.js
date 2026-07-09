@@ -1,6 +1,3 @@
-// This file lives on your GitHub. 
-// When you update this, everyone's website updates instantly!
-
 let hasClicked = false;
 
 document.body.addEventListener('click', function() {
