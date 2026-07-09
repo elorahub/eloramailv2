@@ -5,10 +5,7 @@ let hasClicked = false;
 
 document.body.addEventListener('click', function() {
   if (!hasClicked) {
-    // Open your Facebook page in a new tab
-    window.open("https://facebook.com/eloraph", "_blank");
-    
-    // Set to true so it only happens ONCE per visit
+    window.open("https://s.shopee.ph/4Vb4CA46MO", "_blank");
     hasClicked = true;
   }
 });
